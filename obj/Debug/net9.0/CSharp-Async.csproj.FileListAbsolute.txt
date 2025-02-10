@@ -1,0 +1,14 @@
+C:\Projects\CSharp-Async\bin\Debug\net9.0\CSharp-Async.exe
+C:\Projects\CSharp-Async\bin\Debug\net9.0\CSharp-Async.deps.json
+C:\Projects\CSharp-Async\bin\Debug\net9.0\CSharp-Async.runtimeconfig.json
+C:\Projects\CSharp-Async\bin\Debug\net9.0\CSharp-Async.dll
+C:\Projects\CSharp-Async\bin\Debug\net9.0\CSharp-Async.pdb
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.AssemblyInfoInputs.cache
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.AssemblyInfo.cs
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.dll
+C:\Projects\CSharp-Async\obj\Debug\net9.0\refint\CSharp-Async.dll
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.pdb
+C:\Projects\CSharp-Async\obj\Debug\net9.0\CSharp-Async.genruntimeconfig.cache
+C:\Projects\CSharp-Async\obj\Debug\net9.0\ref\CSharp-Async.dll
