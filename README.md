@@ -11,7 +11,7 @@ A project demonstrating **Asynchronous Programming** in **C#**.
 
 ## 🚀 How to Run
 ```sh
-git clone https://github.com/YourUsername/CSharp-Async-Await.git
+git clone https://github.com/HarisTechWerk/CSharp-Async-Await.git
 cd CSharp-Async-Await
 dotnet build
 dotnet run
